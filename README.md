@@ -1,2 +1,0 @@
-# HappyCuts
-GitHub Pages
